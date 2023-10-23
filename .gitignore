@@ -4,8 +4,8 @@
 /node_modules
 /front/node_modules
 /front/node_modules
-/.next/front/
-/out/front/
+/front/.next
+/front/out
 
 /.pnp
 .pnp.js
